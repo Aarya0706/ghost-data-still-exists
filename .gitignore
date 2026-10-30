@@ -1,0 +1,8 @@
+dataset/
+output.csv
+log.txt
+.env
+.venv/
+venv/
+__pycache__/
+*.py[cod]
